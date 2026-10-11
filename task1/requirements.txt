@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+scipy<1.14
+gensim
+pymorphy3
+pymorphy3-dicts-ru
